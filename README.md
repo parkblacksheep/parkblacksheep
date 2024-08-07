@@ -4,10 +4,8 @@
   ParkBlackSheep Portfolio  - v1 <br/>
      <a href="https://m.naver.com/" target="_blank">Jonwon의 자기 소개</a>
 </h2>
-<img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C"/>
-<img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6"/>
-<img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>
 
+<h5>현재 코드 공부량</h5>
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=parkblacksheep&theme=tokyonight&show_icons=true" width="49%" height="200px"/>
 </a>
